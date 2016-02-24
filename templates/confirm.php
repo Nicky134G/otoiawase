@@ -5,7 +5,6 @@
   <title>確認画面</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
 <section class="box fourcorners">
   <h1>CHECK OUT</h1>

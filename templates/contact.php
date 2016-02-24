@@ -30,6 +30,7 @@ function check(){
 }
 </script> -->
 </head>
+
 <body>
 <section class="box fourcorners">
   <h1>CONTACT US</h1>
