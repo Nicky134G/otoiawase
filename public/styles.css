@@ -82,6 +82,8 @@ body{
  		text-align: center;
  		zoom: 5;
 		}
-		
+		.err{
+		background-color: red;
+		}
 
 		
